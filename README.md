@@ -1,23 +1,20 @@
 # TeachMeSkills_Homework_Lesson_6_Task_1_Class_Version
 1st of 7 Tasks of Lesson 6
-/**
- * ЗАДАНИЕ 1
- * 	Представьте, что в джава нет оператора деления.
- * 	Написать класс, который будет содежрать методы для деления одного числа на
- * 	(на вход метода передаем только с целыми числами).
- * 	Счиатаем, что все другие арифметические операции(сложение, вычитание, умножение) есть, нет только деления.
- * 	Класс должен содержать три метода:
- * 	1) метод для деления одного числа на другое без остатка(например, 10 делить на 3 -> метод будет возвращать 3)
- * 	2) метод для деления одного числа на другое с остатком(например, 10 делить на 3 -> метод будет возвращать 3,333)
- * 	3) метод, который возвращает только остаток от деления одного числа на другое, если остаток есть
- * 	(например, 10 делить на 3 -> метод будет возвращать 1)
- *
- * 	Сделать это задание в двух вариантах(как два отдельных проекта):
- * 	1) реализовать все в обычных классах
- *
- * 	Что практикуем в этом задании:
- * 		- управляющие конструкции, операции ветвления
- * 		- построение алгоритмов
- * 		- статические методы и когда они используются
- * 		- продумывание вариантов тестирование кода
- */
+
+TASK 1
+Imagine that Java does not have a division operator.
+Write a class that will contain methods for dividing one number by
+(we only pass integers to the method input).
+Assume that all other arithmetic operations (addition, subtraction, multiplication) exist, only division is missing.
+The class should contain three methods:
+a method for dividing one number by another without a remainder (for example, 10 divided by 3 -> the method will return 3)
+a method for dividing one number by another with a remainder (for example, 10 divided by 3 -> the method will return 3.333)
+a method that returns only the remainder from dividing one number by another, if there is a remainder
+(for example, 10 divided by 3 -> the method will return 1)
+Do this task in two versions (as two separate projects):
+implement everything in regular classes
+What we practice in this task:
+- control structures, branching operations
+- constructing algorithms
+- static methods and when they are used
+- thinking through options for testing code
